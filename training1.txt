@@ -1,3 +1,7 @@
 Training GIT remote
 
+
 Modifying it from the console
+
+Modifying from GITHUB
+
